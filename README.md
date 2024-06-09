@@ -10,6 +10,7 @@ https://www.kaggle.com/competitions/home-credit-credit-risk-model-stability/over
 # Requirement: You need to
 • Clarify the (quantifiable) benefit from leveraging LLM in the workflow e.g., scientist productivity,
 model performance, etc.
+
 • In the last 4 minutes of pitching, demonstrate using LLM on the editor up to 1 requests from
 committee.
 
@@ -26,10 +27,15 @@ Sponsor by :
 
 𝐺𝑖𝑛𝑖 = 2 × 𝐴𝑈𝑅𝑂𝐶 − 1
 Evaluation criteria:
+
 • 20% Model performance (Gini)
+
 • 30% Creativity
+
 • 30% Pitching and communication
+
 • 20% Live Demo (the last 4 mins)
 
 Pircing: https://ai.google.dev/pricing
+
 Model Benchmark: https://storage.googleapis.com/deepmind-media/gemini/gemini_v1_5_report.pdf
