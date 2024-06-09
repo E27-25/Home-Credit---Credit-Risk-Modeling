@@ -15,7 +15,9 @@ committee.
 
 # Description
 Sponsor by :
-![alt text]([http://url/to/img.png](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F8266388%2F73dadc33233d4a062e29bf791c3b593c%2FLogo_KBTG-AIAT-01.png?generation=1716207228004823&alt=media))
+![inbox_8266388_73dadc33233d4a062e29bf791c3b593c_Logo_KBTG-AIAT-01](https://github.com/E27-25/Home-Credit---Credit-Risk-Modeling/assets/96135468/3137c726-ad1c-42b3-8037-0936abbabd0d)
+
+
 
 # Evaluation
 เราใช้ AUC Score แทน Gini Stability Score ใน Official Competition เพื่อป้องกันการทำ metric hacking
